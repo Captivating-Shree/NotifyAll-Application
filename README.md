@@ -1,5 +1,4 @@
 ---
-
 # 📣 NotifyAll - Messaging & Notification System
 
 **Live App:** [notifyallrnlkwc.vercel.app](https://notifyallrnlkwc.vercel.app)
